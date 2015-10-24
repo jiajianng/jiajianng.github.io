@@ -1,0 +1,13 @@
+Package: odysseusota-device-setup
+Depends: openssh (<=6.9z)
+Priority: optional
+Architecture: iphoneos-arm
+Description: This will setup your device for @tihmstar's OdysseusOTA.
+Homepage: http://youtu.be/Wo7mGdMcjxw
+Depiction: http://youtu.be/Wo7mGdMcjxw
+Maintainer: see below <same email as below. tihmstar again?>
+Author: @jiajianng, tool is by @tihmstar <tihmstar, want to fill this?>
+Section: System
+dev: @jiajianng, tool is by @tihmstar
+Icon: https://pbs.twimg.com/profile_images/3287607055/85f6414b1b35d431296a3dd243f4a903_400x400.png
+Version: 1.0

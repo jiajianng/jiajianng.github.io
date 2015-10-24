@@ -1,0 +1,14 @@
+Package: odysseusota-device-setup
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JJGadgets <jiajianng@me.com>
+Depends: openssh (<=6.9z)
+Filename: debs//odysseus-setup.deb
+Size: 6
+MD5sum: unknown
+SHA1: unknown
+SHA256: unknown
+Section: System
+Description: This will setup your device for odysseusOTA.
+Author: tihmstar <tihmstar@gmail.com>
+Name: OdysseusOTA Setup
