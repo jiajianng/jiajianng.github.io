@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildVersion</key>
+	<string>0.9022</string>
+	<key>comments</key>
+	<string>Simple level, i dont know where background options are they disappeared on latest version (dev?) but, enjoy :P</string>
+	<key>data</key>
+	<string>&lt;levelXML&gt;&lt;info v="1.70" x="75.03" y="49.42" c="3" f="0" h="0" bg="0" bgc="16777215" e="1" fm="m"/&gt;&lt;shapes&gt;&lt;sh t="0" i="1" p0="72.38" p1="48.22" p2="4.80" p3="1.60" p4="0" p5="1" p6="0" p7="1" p8="4032711" p9="-1" p10="100" p11="1"  /&gt;&lt;sh t="0" i="1" p0="77.80" p1="48.10" p2="4.80" p3="1.60" p4="0" p5="1" p6="0" p7="1" p8="4032711" p9="-1" p10="100" p11="1"  /&gt;&lt;sh t="0" i="1" p0="75.77" p1="50.32" p2="4.80" p3="1.60" p4="0" p5="1" p6="0" p7="1" p8="4032711" p9="-1" p10="100" p11="1"  /&gt;&lt;/shapes&gt;&lt;specials&gt;&lt;sp t="3" p0="75.48" p1="45.95" p2="6.40" p3="0.51" p4="90.10" p5="1" p6="0"  /&gt;&lt;/specials&gt;&lt;/levelXML&gt;</string>
+	<key>force_character</key>
+	<false/>
+	<key>name</key>
+	<string>Glitchz</string>
+	<key>playable_character</key>
+	<integer>3</integer>
+</dict>
+</plist>
