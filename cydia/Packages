@@ -1,17 +1,1 @@
-Package: com.spark.snowboard
-Version: 1.0.5-1
-Architecture: iphoneos-arm
-Maintainer: Spark
-Depends: mobilesubstrate
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: debs//com.spark.snowboard_1.0.5-1_iphoneos-arm.deb
-Size: 736
-MD5sum: 8dfb1e32f29b86f109f217cd2c105c9d
-SHA1: 9fa1282c0ce201d96dbd9d2851e0539eb94f7db4
-SHA256: cb214b9e19ff9d57a7ce324c28fe80fafa878a8dd892b93f07e67d8368596b90
-Section: Tweaks
-Description: A lightweight iOS 10+ theme engine that works.
-Author: Spark & Dennis D. Bednarz
-Name: SnowBoard
+
