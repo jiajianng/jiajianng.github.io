@@ -1,8 +1,8 @@
 Origin: JJGadgets
-Laber: JJGadgets
+Label: JJGadgets
 Suite: stable
 Version: 1.0
-Codename: JJGadgets
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: JJGadgets
+Description: JJGadgets Cydia Repository
