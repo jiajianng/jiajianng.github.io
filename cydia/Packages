@@ -20,3 +20,14 @@ Maintainer: JJGadgets <jjgadgetsios@gmail.com>
 Author: JJGadgets <jjgadgetsios@gmail.com>
 Section: System
 Filename: debs//com.jjgadgets.essentialtweaks.music_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.controlcenter
+Name: JJ’s Essential Packages (CC)
+Depends: firmware(>= 12.0), com.shepgoba.beatcane, me.nepeta.begonecia-11, com.atwiiks.betterccxi, com.imkpatil.cclinker, com.jailbreak365.safeccmodules, com.kingpuffdaddi.control-center.ccvpn, com.blackhole.gesto | com.muirey03.duo, com.dylanduff.missioncontrol | com.pulandres.missioncontrol, com.foxfort.deluminator, com.julioverne.flipconvert, com.r333d.eqe, flex3beta, com.squ1dd13.invisimask, u.blanxd.iponcc, com.jakeashacks.realcc, com.esquilli.screender, com.laughingquoll.betterrotate, com.ioscreatix.sugarcane, com.smokin1337.togglow, com.creaturecoding.control-center.toothmodule, com.ichitaso.powerselector11, com.ichitaso.locationservicecc, com.ichitaso.autolockcc, com.ichitaso.autobrightness11, u.blanxd.sshoncc
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that enhance the control center on jailbroken devices, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.controlcenter_0.0.1_iphoneos-arm.deb
