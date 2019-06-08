@@ -12,7 +12,7 @@ Filename: debs//com.jjgadgets.essentialtweaks.function_0.0.1_iphoneos-arm.deb
 Package: com.jjgadgets.essentialtweaks.music
 Name: JJ’s Essential Packages (Music)
 Depends: firmware(>= 12.0), ch.mdaus.artsy, ch.mdaus.utils (= 0.0.2), com.shepgoba.beatcane, com.karimo299.btpower, com.level3tjg.airpodsglyph, com.easy-z.cleanplayer, com.golddavid.colorflow4, com.foxfort.darksounds, dev.eskimo.homebarmediaprogress (= 1.1.4), com.imkpatil.homebarsizer, masq.extension.music, com.evynw.masqew4, me.nepeta.mitsuhainfinity (= 0.1.4), me.nepeta.mitsuhainfinity-homescreen, me.nepeta.mitsuhainfinity-lockscreen, com.williammuff.musicswipes, flex3beta, me.nepeta.nereid (= 0.1.4), se.nosskirneh.nextup2, com.thecomputerwhisperer.noatwakeupx, com.r333d.eqe (>> 2.0.9)
-Conflicts: dev.eskimo.homebarmediaprogress (>> 1.1.4), ch.mdaus.utils (>> 0.0.2), me.nepeta.mitsuhainfinity (>> 0.1.4), me.nepeta.nereid (>> 0.1.4)4
+Conflicts: dev.eskimo.homebarmediaprogress (>> 1.1.4), ch.mdaus.utils (>> 0.0.2), me.nepeta.mitsuhainfinity (>> 0.1.4), me.nepeta.nereid (>> 0.1.4)
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Metapackage to install packages that enhance the music experience on jailbroken devices, handpicked by @JJGadgets
