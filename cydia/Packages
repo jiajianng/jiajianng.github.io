@@ -31,3 +31,69 @@ Maintainer: JJGadgets <jjgadgetsios@gmail.com>
 Author: JJGadgets <jjgadgetsios@gmail.com>
 Section: System
 Filename: debs//com.jjgadgets.essentialtweaks.controlcenter_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.lockscreen
+Name: JJ’s Essential Packages (LS)
+Depends: firmware(>= 12.0), pulandres.extendedglyph, com.creaturecoding.fabric, com.spark.hyperion, com.laughingquoll.maple, com.muirey03.centaur
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that enhance the lockscreen on jailbroken devices, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.lockscreen_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.homescreen
+Name: JJ’s Essential Packages (HS)
+Depends: firmware(>= 12.0), com.irepo.boxy3, com.dgh0st.hswidgets, com.chpwn.iconsupport, com.imkpatil.floatingdock, com.noisyflake.goodges2 (= 2.1.2)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that enhance the homescreen on jailbroken devices, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.homescreen_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.colors
+Name: JJ’s Essential Packages (Coloring)
+Depends: firmware(>= 12.0), io.securarepo.edge, com.golddavid.colorbadges | com.golddavid.colorbadges-new, com.golddavid.colorbanners2-new (= 1.2.3), com.level3tjg.colorhomebar, com.midnightchips.cleantab
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that makes jailbroken devices more colourful, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.colors_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.apps
+Name: JJ’s Essential Packages (Apps)
+Depends: firmware(>= 12.0), me.alfhaily.adblockforyoutube, me.alfhaily.cercube (<< 5.0.0), me.alfhaily.rocket, net.tateu.photodata12, com.pulandres.photomanager12, com.fouadraheb.alarmgroups, com.creaturecoding.cyder, com.unlimapps.uaupdatetools, com.yourepo.adriandev.bigshortcutseditbutton, com.aditkamath.flame, flex3beta, com.julioverne.goodwifi, com.opa334.safariplus, com.fouadraheb.watusi
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that enhance apps on jailbroken devices, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.apps_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.darkmode
+Name: JJ’s Essential Packages (Dark Mode)
+Depends: firmware(>= 12.0), com.creaturecoding.bubbles, com.revulate.chromagram, com.foxfort.darksounds, com.foxfort,deluminator, me.gmoran.eclipse12, com.revulate.groovetube, com.revulate.harmony, com.laughingquoll.noctis12, me.gmoran.eclipse.nocturnal
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that gives a dark mode for jailbroken devices, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.darkmode_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.theming
+Name: JJ’s Essential Packages (Theming)
+Depends: firmware(>= 12.0), com.spark.freshwall, net.dodtweaks.ithemer, io.github.worksbybbs.linealmusiccontrols, io.github.worksbybbs.linealui, io.github.worksbybbs.compactionscc11, com.macciti.waffle, com.macciti.lotus, com.evynw.fontsarala12, com.gabehern.lumi, com.alazybrick.swisschoco, com.yourepo.nickilas.tumbi, co.shoyu.miso, com.creaturecoding.bubbles, com.c1d3r.switches, com.orangebananaspy.nudekeysios12
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that themes various aspects of iOS on jailbroken devices, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.theming_0.0.1_iphoneos-arm.deb
