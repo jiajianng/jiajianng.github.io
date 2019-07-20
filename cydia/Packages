@@ -97,3 +97,14 @@ Maintainer: JJGadgets <jjgadgetsios@gmail.com>
 Author: JJGadgets <jjgadgetsios@gmail.com>
 Section: System
 Filename: debs//com.jjgadgets.essentialtweaks.theming_0.0.1_iphoneos-arm.deb
+
+Package: com.jjgadgets.essentialtweaks.statusbar
+Name: JJ’s Essential Packages (Status Bar)
+Depends: firmware(>= 12.0), libmoorecon, net.tateu.opennotifier12, net.tateu.moveable9, com.fortysixandtwo.alkaline, com.modmyi.zeldaheartsforalkaline, ru.firemoon777.statusmodifier, com.modmyi.opennotifierios7iconpack, com.modmyi.diablowskyiconsforopennotifier, net.tateu.nextalarm12, com.karimo299.btpower, com.level3tjg.airpodsglyph
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Metapackage to install packages that enhance the status bar on jailbroken devices, handpicked by @JJGadgets
+Maintainer: JJGadgets <jjgadgetsios@gmail.com>
+Author: JJGadgets <jjgadgetsios@gmail.com>
+Section: System
+Filename: debs//com.jjgadgets.essentialtweaks.statusbar_0.0.1_iphoneos-arm.deb
